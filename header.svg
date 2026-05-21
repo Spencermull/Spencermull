@@ -99,8 +99,8 @@
     x="450" y="135"
     text-anchor="middle"
     font-family="'Courier New', Courier, monospace"
-    font-size="11" letter-spacing="6"
-    fill="#00f0ff">SYSTEMS  ·  COMPLEX SYSTEMS  ·  COMPILERS</text>
+    font-size="11" letter-spacing="5"
+    fill="#00f0ff">ML / AI  ·  AUTONOMOUS SYSTEMS  ·  FULL STACK</text>
 
   <!-- ── Scanline sweep ── -->
   <rect class="sweep" x="0" y="-10" width="900" height="10" fill="#00f0ff" opacity="0"/>

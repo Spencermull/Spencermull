@@ -2,7 +2,13 @@
 
 <img width="100%" src="./header.svg" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=systems+programmer;complexity+theorist;firmware+%26+embedded+systems;autonomous+agent+builder;backend+infrastructure)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=ML%2FAI+%26+autonomous+systems+engineer;drone+control+%26+computer+vision;geospatial+intelligence+platforms;defense+autonomy+%26+applied+ML;full-stack+foundation+%E2%80%94+C%23%2C+Python%2C+React%2C+Azure)](https://git.io/typing-svg)
+
+<br/>
+
+<p>ML/AI and autonomous systems engineer with a full-stack foundation.<br/>
+Building real systems — drone control, geospatial intelligence, computer vision.<br/>
+SAIT Software Development, 2026 &nbsp;·&nbsp; Focused on defense autonomy and applied ML.</p>
 
 </div>
 
