@@ -54,12 +54,18 @@
 
 **`// GRID STATUS`**
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Spencermull&show_icons=true&hide_border=true&bg_color=000000&title_color=00f0ff&text_color=888888&icon_color=00f0ff&cache_seconds=3600" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spencermull&layout=compact&hide_border=true&bg_color=000000&title_color=00f0ff&text_color=888888&langs_count=6&cache_seconds=3600" />
+&nbsp;
+
+![badges](https://stats.pphat.top/badges?username=Spencermull&name=followers,total-stars,total-commits,repositories,total-pull-requests&effect=glow&theme=neon&size=medium)
 
 &nbsp;
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Spencermull&bg_color=000000&color=00f0ff&line=00f0ff&point=ffffff&area=true&area_color=00f0ff&hide_border=true" />
+<img height="200" src="https://stats.pphat.top/stats?username=Spencermull&avatar_mode=radar&data_border_style=frame&data_border_frame=out&theme=neon" />
+<img height="200" src="https://stats.pphat.top/languages?username=Spencermull&type=card&theme=neon&show_info=true&info_outline=frame" />
+
+&nbsp;
+
+<img width="100%" src="https://stats.pphat.top/graph?username=Spencermull&animate=pulse&theme=neon" />
 
 </div>
 
