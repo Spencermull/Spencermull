@@ -38,7 +38,7 @@
 
 <div align="center">
 
-![followers](https://img.shields.io/github/followers/Spencermull?style=flat-square&color=00f0ff&labelColor=000000&label=followers&logo=github&logoColor=00f0ff)
-![stars](https://img.shields.io/github/stars/Spencermull?style=flat-square&color=00f0ff&labelColor=000000&label=stars&logo=github&logoColor=00f0ff)
+![followers](https://img.shields.io/github/followers/Spencermull?style=flat-square&color=cc0000&labelColor=000000&label=followers&logo=github&logoColor=00f0ff)
+![stars](https://img.shields.io/github/stars/Spencermull?style=flat-square&color=cc0000&labelColor=000000&label=stars&logo=github&logoColor=00f0ff)
 
 </div>
