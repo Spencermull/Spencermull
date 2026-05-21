@@ -54,12 +54,12 @@
 
 **`// GRID STATUS`**
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Spencermull&show_icons=true&hide_border=true&bg_color=000000&title_color=00f0ff&text_color=888888&icon_color=00f0ff&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spencermull&layout=compact&hide_border=true&bg_color=000000&title_color=00f0ff&text_color=888888&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Spencermull&show_icons=true&hide_border=true&bg_color=000000&title_color=00f0ff&text_color=888888&icon_color=00f0ff&cache_seconds=3600" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spencermull&layout=compact&hide_border=true&bg_color=000000&title_color=00f0ff&text_color=888888&langs_count=6&cache_seconds=3600" />
 
 &nbsp;
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Spencermull&hide_border=true&background=000000&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff&sideLabels=888888&dates=555555&sideNums=ffffff&currStreakNum=ffffff" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Spencermull&bg_color=000000&color=00f0ff&line=00f0ff&point=ffffff&area=true&area_color=00f0ff&hide_border=true" />
 
 </div>
 
