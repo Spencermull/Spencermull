@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00f0ff&height=140&section=header&text=SPENCER%20MULLER&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=SYSTEMS%20%C2%B7%20COMPLEX%20SYSTEMS%20%C2%B7%20COMPILERS&descAlignY=65&descSize=15&descColor=00f0ff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00f0ff&height=140&section=header&text=SPENCER%20MULLER&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=SYSTEMS%20%C2%B7%20COMPLEX%20SYSTEMS%20%C2%B7%20COMPILERS&descAlignY=65&descSize=14&descColor=00f0ff&fontAlign=50&customColorList=0&font=Orbitron" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=systems+programmer;complexity+theorist;firmware+%26+embedded+systems;autonomous+agent+builder;backend+infrastructure)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=systems+programmer;complexity+theorist;firmware+%26+embedded+systems;autonomous+agent+builder;backend+infrastructure)](https://git.io/typing-svg)
 
 </div>
 
