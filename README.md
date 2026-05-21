@@ -1,6 +1,8 @@
 <div align="center">
 
-`SPENCER MULLER` &nbsp;·&nbsp; `SYSTEMS` &nbsp;·&nbsp; `COMPLEX SYSTEMS` &nbsp;·&nbsp; `COMPILERS`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00f0ff&height=140&section=header&text=SPENCER%20MULLER&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=SYSTEMS%20%C2%B7%20COMPLEX%20SYSTEMS%20%C2%B7%20COMPILERS&descAlignY=65&descSize=15&descColor=00f0ff" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=systems+programmer;complexity+theorist;firmware+%26+embedded+systems;autonomous+agent+builder;backend+infrastructure)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,42 +23,15 @@
 
 **`// LANGUAGES`**
 
-&nbsp;
-
-![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-000000?style=flat-square&logo=csharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=white)
-
-&nbsp;
+[![Languages](https://skillicons.dev/icons?i=cpp,c,python,java,cs,ts,js&theme=dark)](https://skillicons.dev)
 
 **`// FRAMEWORKS`**
 
-&nbsp;
-
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-000000?style=flat-square&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=white)
-
-&nbsp;
+[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,dotnet&theme=dark)](https://skillicons.dev)
 
 **`// TOOLS & INFRA`**
 
-&nbsp;
-
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-000000?style=flat-square&logo=microsoftazure&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-000000?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-000000?style=flat-square&logo=raspberrypi&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white)
+[![Tools](https://skillicons.dev/icons?i=docker,azure,arduino,raspberrypi,git,github,supabase,postgres&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -79,16 +54,30 @@
 
 **`// GRID STATUS`**
 
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Spencermull&show_icons=true&hide_border=true&bg_color=000000&title_color=00f0ff&text_color=888888&icon_color=00f0ff&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spencermull&layout=compact&hide_border=true&bg_color=000000&title_color=00f0ff&text_color=888888&langs_count=6" />
+
 &nbsp;
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=Spencermull&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=666666&icon_color=ffffff&count_private=true&ring_color=ffffff" />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spencermull&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=666666&langs_count=6" />
+<img width="70%" src="https://streak-stats.demolab.com?user=Spencermull&hide_border=true&background=000000&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff&sideLabels=888888&dates=555555&sideNums=ffffff&currStreakNum=ffffff" />
 
 </div>
 
 ---
 
 <div align="center">
+
+**`// CONTRIBUTION GRID`**
+
+<img width="100%" src="https://raw.githubusercontent.com/Spencermull/Spencermull/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:000000&height=80&section=footer" />
 
 ```
 END OF LINE.
