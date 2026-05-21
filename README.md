@@ -6,9 +6,7 @@
 
 <br/>
 
-<p>ML/AI and autonomous systems engineer with a full-stack foundation.<br/>
-Building real systems — drone control, geospatial intelligence, computer vision.<br/>
-SAIT Software Development, 2026 &nbsp;·&nbsp; Focused on defense autonomy and applied ML.</p>
+<p>ML/AI and autonomous systems engineer with a full-stack foundation (C#, Python, React, Azure). Building real systems: drone control, geospatial intelligence, computer vision. SAIT Software Development alumni, 2026. Focused on defense autonomy and applied ML. Currently learning C++ and systems programming.</p>
 
 </div>
 
